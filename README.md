@@ -1,6 +1,3 @@
-Certainly! Here's your `README.md` file for your JavaScript chess game, enhanced with a variety of relevant emojis to make it more engaging and fun:
-
-```markdown
 # ♟️ JavaScript Chess Game ♟️
 
 ## 📜 Overview
