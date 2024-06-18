@@ -30,7 +30,7 @@ npm run start
 ```
 
 ## 🎮 Usage
-After starting the server, navigate to `localhost:3000` in your web browser to start playing.
+After starting the server, navigate to `localhost:3000` in your web browser to start playing
 
 ## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
